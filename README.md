@@ -6,7 +6,6 @@ Computer Science Student
 Currently studying in University of Almeria
 
 * 🌍  I'm based in Almeria
-* ✉️  You can contact me at [asamafarman@gmail.com](mailto:asamafarman@gmail.com)
 * 🧠  I'm learning software development and web technologies
 
 ### Skills
